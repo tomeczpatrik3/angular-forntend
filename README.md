@@ -168,6 +168,7 @@ Lokális IDE: Visual Studio Code
   - Klikkeljünk a menüre és kapcsoljuk be a fejlesztői módot
   
   #### Manuális tesztelés:
+  
   - Új ügyfél hozzáadása:
   
     1. Beírjuk/kiválasztjuk az adatokat megfelelően.
@@ -176,7 +177,7 @@ Lokális IDE: Visual Studio Code
     3. Majd megjelenik az ügyfél listában is.
     ![testugyfel](pictures/testugyfelek.PNG)
     
-   - Új kölcsönzés hozzáadása:
+  - Új kölcsönzés hozzáadása:
    
     1. Beírjuk/kiválasztjuk az adatokat megfelelően.
     ![uj_kolcsonzes_test](pictures/uj_kolcsonzes_test.PNG)
