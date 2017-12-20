@@ -174,6 +174,7 @@ Lokális IDE: Visual Studio Code
     1. Beírjuk/kiválasztjuk az adatokat megfelelően.
     ![uj_ugyfel_test](pictures/uj_ugyfel_test.png)
     2. A szerver eltárolja az adatokat és erről értesítést küld.
+    ![sikeres ugyfel](pictures/sikeres_ugyfel.png)
     3. Majd megjelenik az ügyfél listában is.
     ![testugyfel](pictures/testugyfelek.PNG)
     
@@ -182,6 +183,7 @@ Lokális IDE: Visual Studio Code
     1. Beírjuk/kiválasztjuk az adatokat megfelelően.
     ![uj_kolcsonzes_test](pictures/uj_kolcsonzes_test.PNG)
     2. A szerver eltárolja az adatokat és erről értesítést küld.
+    ![sikeres kolcsonzes](pictures/sikeres_kolcsonzes.png)
     3. Majd megjelenik a kölcsönzés listában is.
     ![testkolcsonzes](pictures/testkolcsonzesek.PNG)
   
