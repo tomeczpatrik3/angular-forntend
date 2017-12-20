@@ -34,7 +34,7 @@
 
 ### 1.2 Szakterületi fogalomjegyzék
   - Autók típusa: A gyártó által megadott típus megnevezés. Pl.: Panamera(Porsche),Golf GTI(Volkswagen)
-  - Kölcsönzés tulajdonságok: Ügyfél neve, Autó márkája, Autó típusa, Ü
+  - Kölcsönzés tulajdonságok: Ügyfél neve, Autó márkája, Autó típusa, Üzlet neve
 
 ### 1.3 Használatieset-modell
     
